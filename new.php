@@ -97,7 +97,7 @@
 			<img class="img-circle imgsus" alt="Andrey Marin" src="img/profile.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			<img class="img-circle imgsus" alt="Andrey Marin" src="img/profile.png"/>
 			<h1 class="name-boss">Rafaj Design</h1>
-			<h2 class="main-details">Gardens. Concrete. Design. Gizmos.</h2>
+			<h2 class="main-details">Gardens. Concrete. Home. Gizmos.</h2>
 			<p class="extend-details">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
 		</div>
 		<!-- // Personal Details -->
